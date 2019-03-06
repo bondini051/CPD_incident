@@ -31,3 +31,5 @@ The data, as stated above, is not complete and some incident information was red
 - Location   
 
 *** A note about UCR_Incident_Code.  FBI set up the UCR codes (uniform crime reporting) and NIBRS (National Incident Based Reporting System) to make local crime incident reporting as uniform as possible.  Not all states conform to this, for example, Alabama doesn't report these stats to the FBI.
+
+UCR & NIBRS Manual: https://ucr.fbi.gov/nibrs/nibrs-user-manual
